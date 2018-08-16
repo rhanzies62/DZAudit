@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{CFA35E9C-F4ED-471F-ACD7-6875FD8AC175}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DZAudit/MainPage.xaml">
+    <Files>
+      <File FileName="DZAudit/MainPage.xaml" Line="8" Column="15" />
+      <File FileName="DZAudit/MainPage.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DZAudit" expanded="True">
+            <Node name="DZAudit" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="DZAudit.Android" expanded="True">
+              <Node name="Packages" expanded="True" />
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DZAudit.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DZAudit.iOS FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
